@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+App is a medical CRM that is intended to be used in a practice. It would provide information about the patients, appointments, prescriptions, etc. 
+
 ### Features
-Include Features here
+
+- Observe list of patients for a certain doctor
+- Observe patient information
+- Make an appointment for a patient
+- Attach information like prescriptions or tests to an appointment/patient
+- Personnel would be able to log in to the application
+
 ### Technologies
-Include Technologies here
+
+- ASP.NET core
+- Entity Framework
+- Microsoft SQL Server
+- Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Razor view components
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4qhclCcl/liftoff
